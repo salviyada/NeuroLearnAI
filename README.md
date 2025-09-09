@@ -1,9 +1,9 @@
-# NeuroLearnAI
+# COGNIPSY AI
 “Emotion &amp; Attention Detection AI project”
-# NeuroLearn AI
+# COGNIPSY AI
 
 ## Overview
-NeuroLearn AI is an emotion and attention detection system using Python, OpenCV, FER library, and Mediapipe.  
+COGNIPSY AI is an emotion and attention detection system using Python, OpenCV, FER library, and Mediapipe.  
 It detects emotions in real-time through a webcam and logs them into a file.  
 It also monitors user attention and drowsiness.
 
